@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <person attr="root noe" hj="123">
+        <people attr="child one">person one child one</people>
+        <people attr="child two">person one child two</people>
+    </person>
+    <person attr="root two">
+        <people attr="child one">person two child one</people>
+        <people attr="child two">person two child two</people>
+    </person>
+</root>
